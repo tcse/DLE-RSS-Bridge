@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dleplugin>
+	<name>RSS-Bridge by TCSE</name>
+	<description>RSS-Bridge для формирования лент RSS из социальных сетей и сервисов</description>
+	<icon>engine/skins/images/rss_inform.png</icon>
+	<version>0.1</version>
+	<dleversion>13</dleversion>
+	<versioncompare>greater</versioncompare>
+	<upgradeurl></upgradeurl>
+	<filedelete>0</filedelete>
+	<needplugin></needplugin>
+	<mnotice>1</mnotice>
+	<mysqlinstall><![CDATA[]]></mysqlinstall>
+	<mysqlupgrade><![CDATA[]]></mysqlupgrade>
+	<mysqlenable><![CDATA[]]></mysqlenable>
+	<mysqldisable><![CDATA[]]></mysqldisable>
+	<mysqldelete><![CDATA[]]></mysqldelete>
+	<phpinstall><![CDATA[]]></phpinstall>
+	<phpupgrade><![CDATA[]]></phpupgrade>
+	<phpenable><![CDATA[]]></phpenable>
+	<phpdisable><![CDATA[]]></phpdisable>
+	<phpdelete><![CDATA[]]></phpdelete>
+	<notice><![CDATA[Инсталяция php скрипта [url=https://github.com/rss-bridge/rss-bridge]https://github.com/rss-bridge/rss-bridge[/url]
+Используется в связке с RSS информерами DLE.
+Наиболее востребовано для трансляций видео с YouTube.com 
+
+[h2]Установка:[/h2] 
+Открыть корневой файл [b].htaccess[/b]
+найти в нем
+[code]RewriteEngine On[/code]
+
+и добавить ниже
+[code]# rss-bridge  
+RewriteRule ^rss-bridge/index.php$ /engine/modules/mod_tcse/rss-bridge/index.php [L]
+RewriteRule ^rss-bridge/$ /engine/modules/mod_tcse/rss-bridge/index.php [L]
+RewriteRule ^rss-bridge/static/style.css$ /engine/modules/mod_tcse/rss-bridge/static/style.css [L]
+RewriteRule ^rss-bridge/static/HtmlFormat.css$ /engine/modules/mod_tcse/rss-bridge/static/HtmlFormat.css [L]
+RewriteRule ^rss-bridge/static/search.js$ /engine/modules/mod_tcse/rss-bridge/static/search.js [L]
+RewriteRule ^rss-bridge/static/select.js$ /engine/modules/mod_tcse/rss-bridge/static/select.js [L]
+RewriteRule ^rss-bridge/static/logo_600px.png$ /engine/modules/mod_tcse/rss-bridge/static/logo_600px.png [L][/code]
+
+Доступ к админке сервиса по ссылке [url=/rss-bridge/]/rss-bridge/[/url]]]></notice>
+</dleplugin>

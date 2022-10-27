@@ -1,0 +1,900 @@
+s:41907:"<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?user=pepelsbey"/>
+ <id>yt:channel:UCaTfYudJUVA8cV_But8KZVQ</id>
+ <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+ <title>Vadim Makeev</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ"/>
+ <author>
+  <name>Vadim Makeev</name>
+  <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+ </author>
+ <published>2006-11-29T23:27:27+00:00</published>
+ <entry>
+  <id>yt:video:bP3ceQEXMhU</id>
+  <yt:videoId>bP3ceQEXMhU</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>CSS Container Queries, или Адаптация по-новому: контейнер вместо вьюпорта</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bP3ceQEXMhU"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-04-01T09:04:49+00:00</published>
+  <updated>2021-04-03T07:38:39+00:00</updated>
+  <media:group>
+   <media:title>CSS Container Queries, или Адаптация по-новому: контейнер вместо вьюпорта</media:title>
+   <media:content url="https://www.youtube.com/v/bP3ceQEXMhU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bP3ceQEXMhU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+01:05 Базовая раскладка
+02:15 Адаптация от окна
+04:12 Добавляем карточку
+06:38 Проблема с карточкой
+07:19 Раскладка карточки
+08:13 Адаптация карточки
+09:16 Адаптация от контейнера
+10:22 Дополнительное условие
+11:56 Выводы
+12:32 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+Демо https://pepelsbey.github.io/playground/52/
+Флаг для Chrome Canary chrome://flags/#enable-container-queries
+Container Query Proposal &amp; Explainer https://css.oddbird.net/rwd/query/explainer/
+CSS Containment in Chrome 52 https://developers.google.com/web/updates/2016/06/css-containment
+CSS Containment Module https://drafts.csswg.org/css-contain/
+
+* * *
+
+Редактор: VS Code https://code.visualstudio.com/
+Тема: GitHub https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
+Шрифт: JetBrains Mono https://www.jetbrains.com/lp/mono/
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="1202" average="4.97" min="1" max="5"/>
+    <media:statistics views="8822"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LLkSvy1C924</id>
+  <yt:videoId>LLkSvy1C924</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Музыкальный лайв</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LLkSvy1C924"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-03-28T10:27:45+00:00</published>
+  <updated>2021-03-29T09:23:13+00:00</updated>
+  <media:group>
+   <media:title>Музыкальный лайв</media:title>
+   <media:content url="https://www.youtube.com/v/LLkSvy1C924?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LLkSvy1C924/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Нравится? Становитесь патронами — https://www.patreon.com/pepelsbey
+
+Мои пластинки на Discogs https://www.discogs.com/user/pepelsbey/collection
+Audio-Technica AT-LP5 https://www.audio-technica.com/en-us/turntables/best-for/audiophile/at-lp5
+
+Cowboy Junkies в LP https://3lp.me/episodes/1/
+Tequilajazzz в LP https://3lp.me/episodes/3/
+Swans в LP https://3lp.me/episodes/6/
+Джан Ку в LP https://3lp.me/episodes/12/
+The Cure в LP https://3lp.me/episodes/34/
+Cat Power в LP https://3lp.me/episodes/27/
+ПТВП в LP https://3lp.me/episodes/43/
+Scout Niblett в LP https://3lp.me/episodes/47/
+The National в LP https://3lp.me/episodes/63/
+
+Подписывайтесь на соцсети
+Твиттер https://twitter.com/pepelsbey
+Вконтакте https://vk.com/pepelsbey
+Фейсбук https://facebook.com/pepelsbey
+Инстаграм https://www.instagram.com/pepelsbey
+
+* * *
+
+Камеры: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Видеокарта: Blackmagic ATEM Mini Pro
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome</media:description>
+   <media:community>
+    <media:starRating count="152" average="4.87" min="1" max="5"/>
+    <media:statistics views="2500"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-6V7EvfUs3k</id>
+  <yt:videoId>-6V7EvfUs3k</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Цветовые функции в CSS. Мечты сбываются: смешивание, прозрачность, контраст</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-6V7EvfUs3k"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-03-24T09:20:49+00:00</published>
+  <updated>2021-04-02T15:25:58+00:00</updated>
+  <media:group>
+   <media:title>Цветовые функции в CSS. Мечты сбываются: смешивание, прозрачность, контраст</media:title>
+   <media:content url="https://www.youtube.com/v/-6V7EvfUs3k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-6V7EvfUs3k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+00:47 Смешивание цветов
+01:48 Вариант на Sass
+04:12 Функция color-mix
+05:09 Кроссбраузерность
+06:32 Относительные цвета
+07:02 Прозрачность на Sass
+09:35 Добавление прозрачности
+11:18 Модификация цветов
+13:14 История контраста
+14:15 Вариант на Sass
+16:34 Функция color-contrast
+18:38 Выводы
+19:59 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+Относительные цвета https://pepelsbey.github.io/playground/50/relative/
+Смешивание цветов https://pepelsbey.github.io/playground/50/mix/
+Контраст цветов https://pepelsbey.github.io/playground/50/contrast/
+Весь код https://github.com/pepelsbey/playground/tree/master/50
+
+CSS Color Module Level 5 https://drafts.csswg.org/css-color-5/
+Safari TP 122 https://webkit.org/blog/11577/release-notes-for-safari-technology-preview-122/
+Color-mix в трекере Chromium https://bugs.chromium.org/p/chromium/issues/detail?id=1092638
+Color-adjust в трекере Chromium https://bugs.chromium.org/p/chromium/issues/detail?id=1152772
+Эксперименты Лии Веру с color-mix https://codepen.io/leaverou/pen/KKNjqqX?editors=1100
+
+* * *
+
+Редактор: VS Code https://code.visualstudio.com/
+Тема: GitHub https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
+Шрифт: JetBrains Mono https://www.jetbrains.com/lp/mono/
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="899" average="4.94" min="1" max="5"/>
+    <media:statistics views="10566"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wWbDC1C7JEE</id>
+  <yt:videoId>wWbDC1C7JEE</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>EditorConfig — порядок в текстовых файлах: принципы работы, интеграция в редакторы, автоматизация</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wWbDC1C7JEE"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-03-09T09:37:48+00:00</published>
+  <updated>2021-04-02T20:51:55+00:00</updated>
+  <media:group>
+   <media:title>EditorConfig — порядок в текстовых файлах: принципы работы, интеграция в редакторы, автоматизация</media:title>
+   <media:content url="https://www.youtube.com/v/wWbDC1C7JEE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wWbDC1C7JEE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+00:52 Четыре пробела в CSS
+02:12 Два пробела в JSON
+02:52 Почему так
+03:55 Обзор конфига
+05:35 Принцип работы
+06:15 Настройка редактора
+08:13 Автоматизация
+10:35 Конфиг на Гитхабе
+12:30 Выводы
+12:57 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+EditorConfig https://editorconfig.org/
+Editorconfig Checker https://editorconfig-checker.github.io/
+Экшен для теста https://github.com/web-standards-ru/web-standards.ru/blob/master/.github/workflows/editorconfig.yml
+
+* * *
+
+Редактор: VS Code https://code.visualstudio.com/
+Тема: GitHub https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
+Шрифт: JetBrains Mono https://www.jetbrains.com/lp/mono/
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="715" average="4.99" min="1" max="5"/>
+    <media:statistics views="6415"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:m8k-64ruK-s</id>
+  <yt:videoId>m8k-64ruK-s</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Лайв с ответами</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=m8k-64ruK-s"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-03-07T10:30:20+00:00</published>
+  <updated>2021-03-08T10:35:13+00:00</updated>
+  <media:group>
+   <media:title>Лайв с ответами</media:title>
+   <media:content url="https://www.youtube.com/v/m8k-64ruK-s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/m8k-64ruK-s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Нравится? Становитесь патронами — https://www.patreon.com/pepelsbey
+
+Кресло Mirra https://www.hermanmiller.com/products/seating/office-chairs/mirra-2-chairs/
+«Облик книги», Ян Чихольд https://www.artlebedev.ru/izdal/oblik-knigi/
+«Модульные системы в графдизайне», Йозеф Мюллер-Брокманн https://www.artlebedev.ru/izdal/modulnye-sistemy/
+Плейлист с разборами сайтов https://www.youtube.com/playlist?list=PLSFPb_zMfb589eEcJk87V3G0smCsXTnOL
+Подкаст LP про музыку https://3lp.me/
+Коллекция винила на Discogs https://www.discogs.com/user/pepelsbey/collection
+Understanding Z-Index in CSS https://ishadeed.com/article/understanding-z-index/
+Managing CSS Z-Index In Large Projects https://www.smashingmagazine.com/2021/02/css-z-index-large-projects/
+Реализация табов на The F-Word https://github.com/fword-dev/f-word.dev/blob/master/src/layouts/episode.njk#L27-L40
+LitElement https://lit-element.polymer-project.org/
+Декларативный Shadow DOM https://youtu.be/ZjYKzrBEEuI
+Прототип изоляции стилей для Shower https://youtu.be/_FRIRJZYlxU
+Футболки TeeJungle https://teejungle.net/
+Футболки Threadless https://www.threadless.com/
+Футболки Cotton Bureau https://cottonbureau.com/
+Воркшоп по SVG Кэсси Эванс https://www.cassie.codes/speaking/getting-started-with-svg-animation/
+Сара Суайдан про SVG https://www.sarasoueidan.com/tags/svg/
+How to Favicon in 2021https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
+SVGOMG https://jakearchibald.github.io/svgomg/
+Движок для презентаций Shower https://shwr.me/
+Shower на Гитхабе https://github.com/shower/
+
+Подписывайтесь на соцсети
+Твиттер https://twitter.com/pepelsbey
+Вконтакте https://vk.com/pepelsbey
+Фейсбук https://facebook.com/pepelsbey
+Инстаграм https://www.instagram.com/pepelsbey
+
+* * *
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Видеокарта: Blackmagic ATEM Mini Pro
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome</media:description>
+   <media:community>
+    <media:starRating count="232" average="4.95" min="1" max="5"/>
+    <media:statistics views="3346"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tyHitZ6H9jY</id>
+  <yt:videoId>tyHitZ6H9jY</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Как сделать презентацию на движке Shower: быстрый старт, шаблон, элементы и устройство темы</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tyHitZ6H9jY"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-02-23T09:07:39+00:00</published>
+  <updated>2021-02-23T09:07:39+00:00</updated>
+  <media:group>
+   <media:title>Как сделать презентацию на движке Shower: быстрый старт, шаблон, элементы и устройство темы</media:title>
+   <media:content url="https://www.youtube.com/v/tyHitZ6H9jY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tyHitZ6H9jY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+01:13 Что такое Shower
+02:55 Shower CLI
+04:22 Устройство шаблона
+05:03 Запуск сервера
+06:17 Где всё примеры
+10:00 Корневые параметры
+11:58 Устройство темы
+14:04 Компонент спотлайт
+16:58 Тема Material
+18:14 Две мысли
+19:19 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+Стартовый шаблон https://shwr.me/
+Тема Ribbon https://shwr.me/shower/themes/ribbon/
+Тема Material https://shwr.me/shower/themes/material/
+Код на Гитхабе https://github.com/shower/
+
+* * *
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="288" average="4.94" min="1" max="5"/>
+    <media:statistics views="3133"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vF3Ho6YJSbQ</id>
+  <yt:videoId>vF3Ho6YJSbQ</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Эффективная навигация по тексту и мультикурсор для кодеров</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vF3Ho6YJSbQ"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-02-09T08:08:35+00:00</published>
+  <updated>2021-03-11T04:03:13+00:00</updated>
+  <media:group>
+   <media:title>Эффективная навигация по тексту и мультикурсор для кодеров</media:title>
+   <media:content url="https://www.youtube.com/v/vF3Ho6YJSbQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vF3Ho6YJSbQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+01:38 Настройка клавиатуры
+03:16 Начало и конец строки
+04:23 Начало и конец файла
+05:03 Переход по словам
+07:00 Выделение
+07:41 Удаление слов
+08:09 Универсальность
+08:48 Спецсимволы
+10:53 Юникод лучше
+11:57 Клавиатура
+12:50 Мультикурсор
+14:30 Лайфхак
+15:47 Курсоры вручную
+16:47 Выводы
+17:54 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+Подписывайтесь на соцсети
+Твиттер https://twitter.com/pepelsbey
+Вконтакте https://vk.com/pepelsbey
+Фейсбук https://facebook.com/pepelsbey
+Инстаграм https://www.instagram.com/pepelsbey
+
+* * *
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="805" average="4.95" min="1" max="5"/>
+    <media:statistics views="7463"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fz5_EP-7ppI</id>
+  <yt:videoId>fz5_EP-7ppI</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Механический лайв</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fz5_EP-7ppI"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-02-07T10:18:49+00:00</published>
+  <updated>2021-02-09T01:38:10+00:00</updated>
+  <media:group>
+   <media:title>Механический лайв</media:title>
+   <media:content url="https://www.youtube.com/v/fz5_EP-7ppI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fz5_EP-7ppI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Нравится? Становитесь патронами — https://www.patreon.com/pepelsbey
+
+BlitzWolf KB1 https://aliexpress.ru/item/4001154116573.html
+NuPhy F1 https://nuphy.com/collections/shop/products/nutype-f1
+Плата XD68 https://aliexpress.ru/item/33001070473.html
+Клавиатуры Keychron https://www.keychron.com/collections/keyboard
+Ducky One 2 SF https://www.duckychannel.com.tw/en/Ducky-One2-sf
+Футболка на Threadless https://www.threadless.com/product/4964/Eye_Cant_Believe_It
+Недорогие double shot PBT-кэпы https://aliexpress.ru/item/1005001626132442.html
+Kemove SnowFox 61 https://aliexpress.ru/item/4000923340380.html
+Интересная Flesports F12 https://aliexpress.ru/item/1005002037759358.html
+Loupedeck CT https://loupedeck.com/en/products/loupedeck-ct
+
+Подписывайтесь на соцсети
+Твиттер https://twitter.com/pepelsbey
+Вконтакте https://vk.com/pepelsbey
+Фейсбук https://facebook.com/pepelsbey
+Инстаграм https://www.instagram.com/pepelsbey
+
+* * *
+
+Камеры: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Видеокарта: Blackmagic ATEM Mini Pro
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome</media:description>
+   <media:community>
+    <media:starRating count="228" average="4.91" min="1" max="5"/>
+    <media:statistics views="3938"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9bx0HoWWyXI</id>
+  <yt:videoId>9bx0HoWWyXI</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Лайв с ответами</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9bx0HoWWyXI"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2021-01-10T10:36:55+00:00</published>
+  <updated>2021-01-21T09:57:48+00:00</updated>
+  <media:group>
+   <media:title>Лайв с ответами</media:title>
+   <media:content url="https://www.youtube.com/v/9bx0HoWWyXI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9bx0HoWWyXI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Нравится? Становитесь патронами — https://www.patreon.com/pepelsbey
+
+00:00:00 Доброе утро
+00:01:48 Программа лайва
+00:03:23 Твоя свобода
+00:09:03 Путь фронтендера
+00:15:10 Как вернуться к изучению веб-разработки
+00:16:15 Сколько тебе лет
+00:16:40 Где следить за анонсами
+00:17:28 Таблицы, как с ними бороться
+00:19:07 Что ловить в Академии
+00:19:37 Бренд, курсы по верстке
+00:20:50 Люди, которые пилят курсы
+00:22:35 Медитации
+00:24:04 Нужны ли препроцессоры
+00:27:53 Генераторы статики
+00:29:35 Performance &amp; CI/CD
+00:31:39 Ревью от спеца
+00:33:02 Генератор Yeoman
+00:33:57 Твоё образование
+00:35:06 Фрилансер и фулстек
+00:37:05 Houdini CSS
+00:38:05 Организация информации
+00:39:08 Поиск работы
+00:40:05 Что ты будешь изучать в этом году
+00:41:20 Что стоит попробовать в 2021 году
+00:43:10 Мероприятия в 2021 году
+00:44:44 Места в Питере поесть и попить
+00:47:02 Порекомендуй книгу каждому
+00:48:00 iPhone для тестирования
+00:49:55 Мысли о коде
+00:50:38 WebAssembly 
+00:52:53 Следующий механический лайв
+00:54:02 Что дадут 3 курса по JS
+00:55:11 Affinity Design
+00:55:51 Бюджетные клавиатуры
+00:56:26 Vue или React в 2021
+00:57:32 Твои подписки
+00:58:52 ​Как въехать в опенсорс
+01:00:38 React при приёме на работу
+01:02:05 Переход с Sass на PostCSS
+01:03:08 Подход для сложных задач
+01:03:40 Разработчик после 40
+01:04:04 Чем хорош Safari на M1
+01:04:43 Видео про Stylelint
+01:06:11 Свитчи: красные или коричневые
+01:06:54 Верстальщики не вымирают
+01:07:11 Факапы на докладах
+01:15:52 Иконка в формате SVG
+01:16:34 Много ли женщин в IT
+01:17:13 Организация рабочего дня
+01:17:40 Архитектура CSS
+01:18:18 Как войти в доклады
+01:20:34 Автозаполнение input для Safari
+01:20:49 Куда двигаться дальше
+01:22:20 Где изучить гриды
+01:22:46 Отношение к Apple Magic Keyboard
+01:23:10 Почему ушел из Академии
+01:24:23 Углубление знаний во фронтенде
+01:25:20 Интересы, кроме IT
+01:26:23 Критерии хорошей вёрстки
+01:28:24 Где заказывать кастомные клавиатуры
+
+Спасибо Starving Musician за таймкоды 👍
+
+Вакансия автора в HTML Academy https://spb.hh.ru/vacancy/41004971
+Table Design Patterns On The Web https://www.smashingmagazine.com/2019/01/table-design-patterns-web/
+Путь развития фронтендера https://roadmap.sh/frontend
+Доклад «Мой ванильный CSS» https://youtu.be/CaDnbOjXjRg
+Yeoman https://yeoman.io/
+Сборник ворклетов для Houdini https://houdini.how/
+Squoosh https://squoosh.app/
+Клавиатуры HHKB https://hhkeyboard.us/
+Stylelint https://stylelint.io/
+Блог Гарри Робертса https://csswizardry.com/archive/
+Атрибут autocomplete на MDN https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
+Угон дрона на FrontTrends https://youtu.be/iBUnHhEEqkE?t=1827
+Предыдущий механический лайв https://youtu.be/x3TQI_ysGSQ
+
+* * *
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Видеокарта: Blackmagic ATEM Mini Pro
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome</media:description>
+   <media:community>
+    <media:starRating count="361" average="4.98" min="1" max="5"/>
+    <media:statistics views="4991"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:x3TQI_ysGSQ</id>
+  <yt:videoId>x3TQI_ysGSQ</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Механический лайв</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=x3TQI_ysGSQ"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2020-12-20T10:35:20+00:00</published>
+  <updated>2020-12-23T08:43:21+00:00</updated>
+  <media:group>
+   <media:title>Механический лайв</media:title>
+   <media:content url="https://www.youtube.com/v/x3TQI_ysGSQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/x3TQI_ysGSQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Нравится? Становитесь патронами — https://www.patreon.com/pepelsbey
+
+Endgame Casts
+Телеграм https://t.me/endgame_podcast
+Twitch https://www.twitch.tv/endgamecasts
+YouTube https://www.youtube.com/c/EndgameMedia
+
+* * *
+
+Камеры: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Видеокарта: Blackmagic ATEM Mini Pro
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome</media:description>
+   <media:community>
+    <media:starRating count="211" average="4.79" min="1" max="5"/>
+    <media:statistics views="4703"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SrjQxSQcjlE</id>
+  <yt:videoId>SrjQxSQcjlE</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Верстать как в 2020, или Трюки на SVG: маски, трансформации и calc</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SrjQxSQcjlE"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2020-12-10T10:14:41+00:00</published>
+  <updated>2020-12-11T21:36:43+00:00</updated>
+  <media:group>
+   <media:title>Верстать как в 2020, или Трюки на SVG: маски, трансформации и calc</media:title>
+   <media:content url="https://www.youtube.com/v/SrjQxSQcjlE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SrjQxSQcjlE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+00:36 Как оно было
+01:18 Векторные исходники
+02:52 Скруглённые углы
+04:05 Позиционирование хвоста
+04:44 Разметка балуна
+05:24 Хвостик и тень
+07:03 Вырезание хвостика
+08:29 Непростая тень
+10:27 Устройство тени
+11:37 Тень из трёх частей
+14:28 Маска с тенью
+16:44 Улучшение балуна
+17:57 Выводы
+19:04 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+Код https://github.com/pepelsbey/playground/tree/master/43
+Демо https://pepelsbey.github.io/playground/43/
+
+* * *
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="907" average="4.96" min="1" max="5"/>
+    <media:statistics views="9338"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mE1AvBP08Cs</id>
+  <yt:videoId>mE1AvBP08Cs</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Верстать как в 2008, или Флэшбеки олдфага: IE6, таблицы и JS в CSS</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mE1AvBP08Cs"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2020-12-01T08:30:32+00:00</published>
+  <updated>2020-12-01T10:42:53+00:00</updated>
+  <media:group>
+   <media:title>Верстать как в 2008, или Флэшбеки олдфага: IE6, таблицы и JS в CSS</media:title>
+   <media:content url="https://www.youtube.com/v/mE1AvBP08Cs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mE1AvBP08Cs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+01:27 Описание задачи
+02:53 Интересная разметка
+04:49 Таблица, серьёзно?
+06:23 Мелочь в ячейках
+07:13 Дебажим как в старину
+08:33 Структура компонента
+10:13 Необходимая графика
+11:05 Жизнь без border-radius
+12:28 Интересное в стилях
+13:05 Правки для IE
+14:15 JS в CSS
+15:37 Починка прозрачности
+17:11 Всё делали правильно
+18:49 Выводы
+20:04 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+Код https://github.com/pepelsbey/playground/tree/master/42
+Демо https://pepelsbey.github.io/playground/42/
+
+* * *
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="1085" average="4.97" min="1" max="5"/>
+    <media:statistics views="9300"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iRkDsxSWqAc</id>
+  <yt:videoId>iRkDsxSWqAc</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Лайв с ответами</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iRkDsxSWqAc"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2020-11-22T10:38:22+00:00</published>
+  <updated>2020-11-26T14:40:05+00:00</updated>
+  <media:group>
+   <media:title>Лайв с ответами</media:title>
+   <media:content url="https://www.youtube.com/v/iRkDsxSWqAc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iRkDsxSWqAc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Нравится? Становитесь патронами — https://www.patreon.com/pepelsbey
+
+00:00:00 Интро
+00:01:16 Планы на стрим
+00:01:47 Сверлят
+00:01:57 Новые Макбуки
+00:03:43 5K-монитор
+00:05:33 Кто сверлит?
+00:05:51 Плавный курсор в VS Code
+00:06:22 Надо ли знать вёрстку фронтендеру
+00:07:58 Факап в карьере
+00:09:07 Новые клавиатуры
+00:11:07 Станут ли верстальщики невостребованными
+00:13:43 Сходства в логотипе
+00:14:50 Размер шрифта и единицы вьюпорта
+00:18:04 Странное собеседование
+00:19:51 Карточки с картинками и подписями
+00:20:32 Дизайн-системы
+00:22:40 CSS-код элемента в Figma
+00:24:43 Устают ли руки с механическими клавиатурами
+00:25:26 Установка Kerio Control на Ubuntu
+00:25:35 Где читать про БЭМ?
+00:26:40 Адаптация для Safari
+00:28:26 Любимая музыка
+00:29:30 Сколько нужно зарабатывать, чтобы жить на Кипре
+00:30:01 Bootstrap 5
+00:31:22 Будет ли Vue в курсе Академии
+00:32:17 Разбор доступного селекта
+00:33:24 Много ли программируешь?
+00:35:04 Готовые слайдеры
+00:36:31 Использовал ли Storybook
+00:36:57 Как убрать скролл на мобилке
+00:37:46 Вынос кастомизированных значений в дизайн
+00:39:36 БЭМ и нестандартная сетка на гридах
+00:40:10 Про лайвкодинг
+00:41:32 Планы на LP
+00:42:58 Safari на Windows
+00:43:34 Зачем проколол ухо
+00:43:41 Синдром самозванца
+00:44:28 Альтернатива Bootstrap
+00:44:39 Доступный слайдер
+00:46:05 Issue по-русски
+00:47:14 На что снимаешь и хостишь стрим?
+00:47:57 Рекомендации студенту
+00:49:14 Платные разборы, тиры для патронов
+00:50:25 Сборщик Snowpack и другой
+00:51:48 Количество медиавыражений
+00:52:13 Data-атрибуты вместо классов
+00:54:16 Влияние ковида на рынок труда
+00:56:34 Масштабирование во вьюпорте
+00:57:44 Выравнивание по центру на гридах
+00:58:51 Порядок фавиконок в метатегах
+00:59:29 Где прокачаться по тимлидингу
+00:59:41 Playwright
+01:00:04 Выбор механической клавиатуры
+01:02:05 Как начать разбираться в механике
+01:02:37 Углублённое знание вёрстки
+01:04:12 Способ имитировать нажатие на текст
+01:04:29 Фокусируются на Веб-стандартах
+01:05:28 Мнение про стек
+01:06:04 Универсальные названия классов
+01:07:12 Куда расти верстальщику
+01:08:27 Верстальщики и React
+01:09:27 Умение верстать письма
+01:10:42 Где научиться рефакторингу
+01:11:17 Вставка SVG
+01:12:28 Книги по фронтенду
+01:13:03 Тег datalist
+01:14:00 Клавиатура без кириллицы
+01:15:34 Вёрстка и мобильные приложения
+01:17:17 Город для переезда
+01:19:22 Типографики от ширины окна
+01:20:23 Именование классов
+01:20:56 Сложная кроссбраузерная вёрстка
+01:21:47 Музыкальные инструменты
+01:22:30 Планы на pitercss_meetup
+01:22:51 AVIF в Safari
+01:22:55 Веб-компоненты или фреймворк
+01:23:27 Конец
+
+LG UltraFine 5K https://www.lg.com/us/ultrafine-monitors
+Тема для VS Code https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light
+Подкаст про музыку LP https://3lp.me/
+Курс «Анимация для фронтендеров» https://htmlacademy.ru/intensive/animation
+Подкаст про дизайн-системы https://youtu.be/gh-_3-N1dnQ
+Ин­клю­зив­ные ком­по­нен­ты: слай­дер https://web-standards.ru/articles/a-content-slider/
+
+* * *
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Видеокарта: Blackmagic ATEM Mini Pro
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome</media:description>
+   <media:community>
+    <media:starRating count="298" average="4.96" min="1" max="5"/>
+    <media:statistics views="4299"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ST1EvRemB_U</id>
+  <yt:videoId>ST1EvRemB_U</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>Где использовать флексы, а где гриды? Спойлер: да где хотите</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ST1EvRemB_U"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2020-11-17T09:14:32+00:00</published>
+  <updated>2021-04-01T23:57:21+00:00</updated>
+  <media:group>
+   <media:title>Где использовать флексы, а где гриды? Спойлер: да где хотите</media:title>
+   <media:content url="https://www.youtube.com/v/ST1EvRemB_U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/ST1EvRemB_U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+00:11 Флексы и гриды
+01:52 Ошибочная картина
+02:30 Постановка задачи
+02:52 Вёрстка кнопок
+04:50 Вставка иконок
+05:52 Подгонка иконок
+07:32 Выравнивание иконок
+08:18 Добавление гридов
+09:43 Отступ от иконки
+11:25 Гэпы во флексах
+12:27 Кроссбраузерность
+13:41 Беда с кнопками
+14:40 Обман
+15:34 Вывод
+16:25 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+Код https://github.com/pepelsbey/playground/tree/master/40
+Демо https://pepelsbey.github.io/playground/40/
+
+Фикс для кнопок в Safari 14.0.1 https://twitter.com/pepelsbey/status/1328662342515765249
+Browser Default Styles https://browserdefaultstyles.com/
+The Two Values Of Display https://www.smashingmagazine.com/2019/04/display-two-value/
+Safari Technology Preview https://developer.apple.com/safari/technology-preview/
+
+* * *
+
+Камера: Blackmagic Pocket Cinema 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="1764" average="4.97" min="1" max="5"/>
+    <media:statistics views="12053"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OSNCZ7R2bC4</id>
+  <yt:videoId>OSNCZ7R2bC4</yt:videoId>
+  <yt:channelId>UCaTfYudJUVA8cV_But8KZVQ</yt:channelId>
+  <title>NuType F1 — анбоксинг и первые впечатления от тонкой механической клавиатуры</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OSNCZ7R2bC4"/>
+  <author>
+   <name>Vadim Makeev</name>
+   <uri>https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ</uri>
+  </author>
+  <published>2020-11-10T07:48:07+00:00</published>
+  <updated>2020-11-18T03:28:41+00:00</updated>
+  <media:group>
+   <media:title>NuType F1 — анбоксинг и первые впечатления от тонкой механической клавиатуры</media:title>
+   <media:content url="https://www.youtube.com/v/OSNCZ7R2bC4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OSNCZ7R2bC4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Интро
+01:08 Коробка
+02:19 Содержимое
+03:39 Клавиатура
+05:52 Тест с Макбуком
+07:43 Чехол-подставка
+08:50 Звуки печати
+09:50 Выводы
+10:47 Аутро
+
+Нравится? Становитесь патронами https://www.patreon.com/pepelsbey
+
+NuPhy F1 https://nuphy.com/collections/shop/products/nutype-f1
+
+* * *
+
+Камера 1: Blackmagic Pocket Cinema 4K
+Камера 2: Blackmagic Micro Studio 4K
+Объектив: Panasonic 12–35 мм, f/2,8
+Микрофон: Audio-Technica BP40
+Свет: Aputure Light Storm 120d II + Light Dome
+Софт: DaVinci Resolve, iZotope RX</media:description>
+   <media:community>
+    <media:starRating count="510" average="4.80" min="1" max="5"/>
+    <media:statistics views="6775"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
+";
